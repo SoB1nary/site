@@ -1,0 +1,11 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "verno",
+  "main": "index.js",
+  "scripts": {
+    "test": "verno"
+  },
+  "author": "",
+  "license": "ISC"
+}
