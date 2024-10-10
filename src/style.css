@@ -486,7 +486,7 @@ label{
         margin-top:20px; 
         margin-right: 10px; /* Отступ справа */
         contain: layout;
-
+        background-color: #2629c7;
     }
    
     
